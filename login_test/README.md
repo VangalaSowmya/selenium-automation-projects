@@ -1,13 +1,9 @@
-Login Test Automation
+# Login Test Automation
 
-This project uses Selenium with Python to automate login functionality on a sample web application.
+This project uses Selenium with Python to automate a login functionality on [Herokuapp Login Page](https://the-internet.herokuapp.com/login).
 
-Steps Automated
-
-Launch browser and open the application
-
-Enter username and password
-
-Click the login button
-
-Verify successful login by checking user dashboard or welcome message
+## Steps Automated
+- Open login page
+- Enter username and password
+- Click login button
+- Print success/failure message

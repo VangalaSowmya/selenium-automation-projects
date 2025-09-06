@@ -1,9 +1,9 @@
-Shopping Cart Test Automation
+#Shopping Cart Test Automation
 
 This project uses Selenium with Python to automate shopping cart functionality on the Demo Web Shop
  website.
 
-Steps Automated
+#Steps Automated
 
 Launch browser and open Demo Web Shop
 

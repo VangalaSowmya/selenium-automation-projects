@@ -1,9 +1,15 @@
-Form Test Automation
-This project uses Selenium with Python to automate filling a sample form on Techlistic Selenium Practice Form.
+#Shopping Cart Test Automation
 
-Steps Automated
-Fill first name and last name
-Select gender and years of experience
-Enter a date
-Select profession and automation tool
-Choose a continent from dropdown
+This project uses Selenium with Python to automate shopping cart functionality on the Demo Web Shop.
+
+#Steps Automated
+
+Launch browser and open Demo Web Shop
+
+Navigate to the "Books" category
+
+Add the first book to the shopping cart
+
+Navigate to the shopping cart page
+
+Verify that the item is added successfully
